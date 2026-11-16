@@ -2,7 +2,7 @@
 
   <!-- Header Banner -->
   <a href="https://github.com/Savankarathiya">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:06b6d4,100:10b981&height=220&section=header&text=Savan%20Karathiya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technical%20Lead%20%7C%20Full%20Stack%20%26%20Distributed%20Systems%20Architect&descFontSize=20&descAlignY=62&descColor=06b6d4" width="100%" alt="Savan Karathiya Header Banner" />
+    <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:06b6d4,100:10b981&height=220&section=header&text=Savan%20Karathiya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technical%20Lead%20%7C%20Full%20Stack%20%26%20Distributed%20Systems%20Architect&descFontSize=20&descAlignY=62&descColor=06b6d4" width="100%" alt="Savan Karathiya Header Banner" /> -->
   </a>
 
   <!-- Animated Typing SVG -->
