@@ -137,8 +137,8 @@ Accomplished **Technical Lead and Systems Architect** with a decade (**10+ years
 ### 📈 GitHub Analytics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Savankarathiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=06b6d4&text_color=94a3b8&icon_color=10b981&include_all_commits=true&count_private=true" alt="Savan Karathiya's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savankarathiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=06b6d4&text_color=94a3b8&langs_count=8" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Savankarathiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=06b6d4&text_color=94a3b8&icon_color=10b981&include_all_commits=true&count_private=true" alt="Savan Karathiya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savankarathiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=06b6d4&text_color=94a3b8&langs_count=8" alt="Top Languages" /> -->
 </p>
 
 <p align="center">
